@@ -6,8 +6,9 @@ Cilj projekta je primjena teorijskih i praktičnih znanja iz oblasti računarske
 
 ## Tools & Technologies
 ![Blender](https://img.shields.io/badge/Blender-3D-orange?logo=blender&logoColor=white)
-![Cycles](https://img.shields.io/badge/Render-Cycles-lightgrey)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40"/> Blender
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40"/> 
 
 
+![Blender](https://img.shields.io/badge/Blender-orange?logo=blender&logoColor=white)
+![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-3D-blue)
